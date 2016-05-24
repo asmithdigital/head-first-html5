@@ -1,0 +1,5 @@
+**/*.zip
+/code-download
+**/*.mp4
+**/*.ogv
+**/*.webm
